@@ -16,13 +16,15 @@ This table summarizes data from a total of 120 cities from January to April 2019
 
 ![PyBer_Summary_Chart.png](analysis/PyBer_Summary_Chart.png)
 
-- There is a positive correlation between increasing population density and rides, drivers and total fares.
-- There is a negative correlation between increasing population density and average fare per ride and average fare per driver.
+- There is a positive correlation between population density and rides, drivers and total fares.
+- There is a negative correlation between population density and average fare per ride and average fare per driver.
 - Urban areas have more drivers than riders 
 
-This graph shows total fares collected over the analysis time period
+This graph shows total fares collected over the analysis time period for the 3 city types: Rural, Suburban and Urban.
 
 ![total_fare_by_city_type](analysis/total_fare_by_city_type.png)
 
+## Recommendations
 
-## Summary
+- Ridership in rural areas may be lower than urban areas due to lower driver availability or higher cost of fares.  Incentivizing drivers to service these areas or offering reduced fares may increase rider participation.  These areas may be the most challenging to build - there is likely lower demand and a perceived high cost per ride may be deterring riders.  The higher average fare per ride is suggestive of longer distance trips.
+- Ridership in urban areas is already very high, with a high availability of drivers. Lower average fares per ride and per driver suggest these are shorter distance trips.  If these drivers can be incentivized to service adjacent suburban areas, this tier represents an area with potential for expansion.
