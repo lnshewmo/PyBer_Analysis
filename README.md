@@ -24,7 +24,19 @@ This graph shows total fares collected over the analysis time period for the 3 c
 
 ![total_fare_by_city_type](analysis/total_fare_by_city_type.png)
 
-## Recommendations
+## Summary
 
-- Ridership in rural areas may be lower than urban areas due to lower driver availability or higher cost of fares.  Incentivizing drivers to service these areas or offering reduced fares may increase rider participation.  These areas may be the most challenging to build - there is likely lower demand and a perceived high cost per ride may be deterring riders.  The higher average fare per ride is suggestive of longer distance trips.
+- Ridership in rural areas may be lower than urban areas due to lower driver availability or higher cost of fares.  These areas may be the most challenging to build - there is likely lower demand and a perceived high cost per ride may be deterring riders.  The higher average fare per ride is suggestive of longer distance trips.
 - Ridership in urban areas is already very high, with a high availability of drivers. Lower average fares per ride and per driver suggest these are shorter distance trips.  If these drivers can be incentivized to service adjacent suburban areas, this tier represents an area with potential for expansion.
+
+### Recommendations
+
+1.  What driver incentives can be implemented to:
+    - Increase driver availability in rural areas
+    - Shift urban drivers into adjacent suburban areas
+2.  What rider incentives can be implemented to:
+    - Reduce the average fare per ride in rural areas
+3.  Take a closer look at:
+    - Can specific cities be identified with very low or high number of drivers?
+    - Using the city names, can the data be visualized with average fares and number of drivers per geographic area?  Are there geographic impediments?
+    - Are there events which can be identified during this time period which may explain highs and lows?
